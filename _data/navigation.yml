@@ -7,6 +7,8 @@ main:
     url: /upper-extremity/
   - title: "🍗 Untere Extremität"
     url: /lower-extremity/
+  - title: "🚸 Kinder"
+    url: /kinder/
 
 stamm_menu:
   - title: "🏠 Home"
@@ -59,3 +61,11 @@ lower-extremity_menu:
         url: /lower-extremity/calcaneus/
       - title: "Mittelfuß & Zehen"
         url: /lower-extremity/mittelfuß-zehen/
+        
+kinder_menu:
+  - title: "🏠 Home"
+    url: /
+  - title: "🚸 Kinder"
+    children:
+      - title: "Wachstumsfuge"
+        url: /stamm/wachstumsfuge/
