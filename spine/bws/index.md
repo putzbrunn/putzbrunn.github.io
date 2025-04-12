@@ -1,7 +1,7 @@
 ---
 title: "Brustwirbelsäule"
 layout: single
-permalink: /bws/
+permalink: /spine/bws/
 sidebar:
   nav: spine_menu
 ---

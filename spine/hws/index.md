@@ -1,7 +1,7 @@
 ---
 title: "Halswirbelsäule"
 layout: single
-permalink: /hws/
+permalink: /spine/hws/
 sidebar:
   nav: spine_menu
 
