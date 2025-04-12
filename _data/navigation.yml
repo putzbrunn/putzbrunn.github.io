@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Wirbelsäule"
-    url: /spine/
+  - title: "Körperstamm"
+    url: /stamm/
   - title: "Obere Extremitäten"
     url: /upper-extremity/
   - title: "Becken"
@@ -10,18 +10,22 @@ main:
   - title: "Untere Extremität"
     url: /lower-extremity/
 
-spine_menu:
+stamm_menu:
   - title: "🏠 Home"
     url: /
   - title: "Wirbelsäule"
     children:
-    - title: "HWS"
-      url: /spine/hws/
-    - title: "BWS"
-      url: /spine/bws/
-    - title: "LWS"
-      url: /spine/lws/
-
+    - title: "Halswirbelsäule (HWS)"
+      url: /stamm/hws/
+    - title: "Brustwirbelsäule (BWS)"
+      url: /stamm/bws/
+    - title: "Lendenwirbelsäule (LWS)"
+      url: /stamm/lws/
+  - title: "Becken"
+      url: /stamm/becken/
+  - title: "Sakrum"
+      url: /stamm/sakrum/
+      
 upper-extremity_menu:
   - title: "🏠 Home"
     url: /
@@ -39,3 +43,21 @@ upper-extremity_menu:
       url: /upper-extremity/handwurzel/
     - title: "Mittelhand & Finger"
       url: /upper-extremity/mittelhand-finger/
+      
+lower-extremity_menu:
+  - title: "🏠 Home"
+    url: /
+  - title: "Untere Extremität"
+    children:
+    - title: "Femur"
+      url: /lower-extremity/femur/
+    - title: "Tibia"
+      url: /lower-extremity/tibia/
+    - title: "Oberes Sprunggelenk (OSG)"
+      url: /lower-extremity/osg/
+    - title: "Fußwurzel"
+      url: /lower-extremity/fußwurzel/
+    - title: "calcaneus"
+      url: /lower-extremity/calcaneus/
+    - title: "Mittelfuß & Zehen"
+      url: /lower-extremity/mittelfuß-zehen/
