@@ -18,3 +18,7 @@ breadcrumbs: true
 # Optional Google Fonts and SEO
 author:
   name: "Putzbrunn Crew"
+
+# Enable custom styles
+sass:
+  style: compressed
