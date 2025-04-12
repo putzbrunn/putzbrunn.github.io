@@ -1,7 +1,7 @@
 ---
 title: "Wirbelsäule"
 layout: single
-permalink: /spine/
+permalink: /:spine/
 sidebar:
   nav: spine_menu
 ---
