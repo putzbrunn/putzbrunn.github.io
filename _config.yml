@@ -18,6 +18,7 @@ breadcrumbs: true
 # Optional Google Fonts and SEO
 author:
   name: "Putzbrunn Crew"
+  avatar: "/assets/images/putzbrunn-ortsschild-blass-250px.png"
 
 # Enable custom styles
 sass:
