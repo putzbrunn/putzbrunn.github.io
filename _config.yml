@@ -12,7 +12,7 @@ locale: "en-GB"
 
 # Navigation
 sidebar:
-  nav: "main"
+  show_avatar: true
 breadcrumbs: true
 
 # Optional Google Fonts and SEO
