@@ -13,27 +13,29 @@ main:
 spine_menu:
   - title: "🏠 Home"
     url: /
-  - title: "Wirbelsäule Übersicht"
-    url: /spine/
-  - title: "HWS"
-    url: /spine/hws/
-  - title: "BWS"
-    url: /spine/bws/
-  - title: "LWS"
-    url: /spine/lws/
+  - title: "Wirbelsäule"
+    children:
+    - title: "HWS"
+      url: /spine/hws/
+    - title: "BWS"
+      url: /spine/bws/
+    - title: "LWS"
+      url: /spine/lws/
 
 upper-extremity_menu:
   - title: "🏠 Home"
     url: /
-  - title: "Clavicula"
-    url: /upper-extremity/clavicula/
-  - title: "Schulterblatt"
-    url: /upper-extremity/schulterblatt/
-  - title: "Humerus"
-    url: /upper-extremity/humerus/
-  - title: "Radius"
-    url: /upper-extremity/radius/
-  - title: "Handwurzel"
-    url: /upper-extremity/handwurzel/
-  - title: "Mittelhand & Finger"
-    url: /upper-extremity/mittelhand-finger/
+  - title: "Obere Extremität"
+    children:
+    - title: "Clavicula"
+      url: /upper-extremity/clavicula/
+    - title: "Schulterblatt"
+      url: /upper-extremity/schulterblatt/
+    - title: "Humerus"
+      url: /upper-extremity/humerus/
+    - title: "Radius"
+      url: /upper-extremity/radius/
+    - title: "Handwurzel"
+      url: /upper-extremity/handwurzel/
+    - title: "Mittelhand & Finger"
+      url: /upper-extremity/mittelhand-finger/
