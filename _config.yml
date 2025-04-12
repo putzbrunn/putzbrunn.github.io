@@ -6,7 +6,7 @@ plugins:
   - jekyll-include-cache
 
 # Theme settings
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "mint"
 locale: "de-DE"
 
 # Optional sidebar nav
