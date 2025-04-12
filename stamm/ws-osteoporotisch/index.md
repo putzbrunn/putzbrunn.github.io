@@ -3,7 +3,7 @@ title: "Osteoporotische Frakturen Wirbelsäule"
 layout: single
 permalink: /stamm/ws-osteoporotisch/
 sidebar:
-  nav: stamm_menu
+  nav: volles_menu
 parent: "Wirbelsäule"
 nav_order: 1
 header:

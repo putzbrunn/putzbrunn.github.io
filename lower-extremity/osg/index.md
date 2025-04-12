@@ -3,7 +3,7 @@ layout: single
 title: "Oberes Sprunggelenk"
 permalink: /lower-extremity/osg/
 sidebar:
-  nav: lower-extremity_menu
+  nav: volles_menu
 parent: "Untere Extremität"
 nav_order: 1
 header:

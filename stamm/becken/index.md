@@ -3,7 +3,7 @@ layout: single
 title: "Becken"
 permalink: /stamm/becken/
 sidebar:
-  nav: stamm_menu
+  nav: volles_menu
 parent: "Wirbelsäule"
 nav_order: 1
 header:

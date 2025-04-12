@@ -3,7 +3,7 @@ layout: single
 title: "Mittelfuß & Zehen"
 permalink: /lower-extremity/mittelfuß-zehen/
 sidebar:
-  nav: lower-extremity_menu
+  nav: volles_menu
 parent: "Untere Extremität"
 nav_order: 1
 header:

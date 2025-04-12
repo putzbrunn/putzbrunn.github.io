@@ -3,7 +3,7 @@ title: "Sakrum"
 layout: single
 permalink: /stamm/sakrum/
 sidebar:
-  nav: stamm_menu
+  nav: volles_menu
 parent: "Wirbelsäule"
 nav_order: 1
 header:

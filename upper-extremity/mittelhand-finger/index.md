@@ -3,7 +3,7 @@ layout: single
 title: "Mittelhand & Finger"
 permalink: /upper-extremity/mittelhand-finger/
 sidebar:
-  nav: upper-extremity_menu
+  nav: volles_menu
 parent: "Obere Extremität"
 nav_order: 1
 header:

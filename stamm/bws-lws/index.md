@@ -3,7 +3,7 @@ title: "Brust- und Lendenwirbelsäule"
 layout: single
 permalink: /stamm/bws-lws/
 sidebar:
-  nav: stamm_menu
+  nav: volles_menu
 parent: "Wirbelsäule"
 nav_order: 1
 header:

@@ -3,7 +3,7 @@ title: "Kinder"
 layout: single
 permalink: /kinder/
 sidebar:
-  nav: kinder_menu
+  nav: volles_menu
 has_children: true
 nav_order: 1
 header:

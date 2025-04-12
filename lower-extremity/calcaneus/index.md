@@ -3,7 +3,7 @@ layout: single
 title: "Calcaneus"
 permalink: /lower-extremity/calcaneus/
 sidebar:
-  nav: lower-extremity_menu
+  nav: volles_menu
 parent: "Untere Extremität"
 nav_order: 1
 header:

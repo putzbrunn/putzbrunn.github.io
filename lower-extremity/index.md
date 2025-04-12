@@ -3,7 +3,7 @@ title: "Untere Extremität"
 layout: single
 permalink: /lower-extremity/
 sidebar:
-  nav: lower-extremity_menu
+  nav: volles_menu
 has_children: true
 nav_order: 1
 header:

@@ -3,7 +3,7 @@ layout: single
 title: "Wachstumsfuge"
 permalink: /kinder/wachstumsfuge/
 sidebar:
-  nav: kinder_menu
+  nav: volles_menu
 parent: "Kinder"
 nav_order: 1
 header:

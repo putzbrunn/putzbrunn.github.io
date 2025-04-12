@@ -3,7 +3,7 @@ title: "Körperstamm"
 layout: single
 permalink: /stamm/
 sidebar:
-  nav: stamm_menu
+  nav: volles_menu
 has_children: true
 nav_order: 1
 header:

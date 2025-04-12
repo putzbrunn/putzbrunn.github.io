@@ -3,7 +3,7 @@ layout: single
 title: "Femur"
 permalink: /lower-extremity/femur/
 sidebar:
-  nav: lower-extremity_menu
+  nav: volles_menu
 parent: "Untere Extremität"
 nav_order: 1
 header:

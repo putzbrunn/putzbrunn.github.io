@@ -3,7 +3,7 @@ layout: single
 title: "Schulterblatt"
 permalink: /upper-extremity/schulterblatt/
 sidebar:
-  nav: upper-extremity_menu
+  nav: volles_menu
 parent: "Obere Extremität"
 nav_order: 1
 header:

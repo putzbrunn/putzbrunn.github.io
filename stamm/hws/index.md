@@ -3,7 +3,7 @@ title: "Halswirbelsäule"
 layout: single
 permalink: /stamm/hws/
 sidebar:
-  nav: stamm_menu
+  nav: volles_menu
 parent: "Wirbelsäule"
 nav_order: 1
 header:
