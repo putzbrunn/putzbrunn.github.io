@@ -12,5 +12,6 @@ header:
 
 ---
 
-Sakrum
-
+<a href="/stamm/sakrum/assets/sakrum-ao.jpg" target="_blank">
+  <img src="/stamm/sakrum/assets/sakrum-ao.jpg" alt="AO-Klassifikation Sakrum" style="max-width: 500px;" />
+</a>

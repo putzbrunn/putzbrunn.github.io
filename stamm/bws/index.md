@@ -11,4 +11,6 @@ header:
   show_overlay_excerpt: false
 ---
 
-BWS
+<a href="/stamm/bws/assets/bws-lws-ao.jpg" target="_blank">
+  <img src="/stamm/bws/assets/bws-lws-ao.jpg" alt="AO-Klassifikation BWS/LWS" style="max-width: 500px;" />
+</a>

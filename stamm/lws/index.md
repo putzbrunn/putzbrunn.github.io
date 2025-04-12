@@ -11,10 +11,7 @@ header:
   show_overlay_excerpt: false
 ---
 
-# Lendenwirbelsäule
-
 <a href="/stamm/lws/assets/bws-lws-ao.jpg" target="_blank">
   <img src="/stamm/lws/assets/bws-lws-ao.jpg" alt="AO-Klassifikation BWS/LWS" style="max-width: 500px;" />
 </a>
 
-![bws-lws-ao](assets/bws-lws-ao.jpg)
