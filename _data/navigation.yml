@@ -22,7 +22,7 @@ spine_menu:
   - title: "LWS"
     url: /spine/lws/
     
-    upper-extremity_menu:
+ upper-extremity_menu:
   - title: "🏠 Home"
     url: /
   - title: "Clavicula"
