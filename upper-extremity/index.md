@@ -6,7 +6,7 @@ sidebar:
   nav: upper-extremity_menu
 header:
   overlay_image: /assets/images/header-berge-bw-advanced.jpg
-  show_overlay_excerpt: true
+  show_overlay_excerpt: false
 ---
 
 Obere Extremität

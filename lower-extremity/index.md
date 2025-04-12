@@ -8,7 +8,7 @@ has_children: true
 nav_order: 1
 header:
   overlay_image: /assets/images/header-berge-bw-advanced.jpg
-  show_overlay_excerpt: true
+  show_overlay_excerpt: false
 ---
 
 Untere Extremität

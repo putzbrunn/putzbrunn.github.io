@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "👿 Körperstamm"
+  - title: "🌳 Körperstamm"
     url: /stamm/
   - title: "💪 Obere Extremitäten"
     url: /upper-extremity/
@@ -11,7 +11,7 @@ main:
 stamm_menu:
   - title: "🏠 Home"
     url: /
-  - title: "👿 Wirbelsäule"
+  - title: "🌳 Wirbelsäule"
     children:
       - title: "Halswirbelsäule (HWS)"
         url: /stamm/hws/
