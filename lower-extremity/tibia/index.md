@@ -9,7 +9,11 @@ nav_order: 1
 header:
   overlay_image: /assets/images/header-berge-bw-advanced.jpg
   show_overlay_excerpt: true
+toc: true
+toc_sticky: true
 ---
 
-Tibia
+## Tibiaplateau
+
+![schatzker-klassifikation](assets/schatzker-klassifikation.jpeg)
 
