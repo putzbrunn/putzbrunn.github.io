@@ -7,7 +7,7 @@ plugins:
   - jekyll-include-cache
 
 # Theme settings
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "default"
 locale: "en-GB"
 
 # Navigation
