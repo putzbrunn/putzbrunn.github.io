@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Übersicht"
 header:
   overlay_image: /assets/images/header-berge-bw.jpg
