@@ -11,5 +11,9 @@ header:
   show_overlay_excerpt: false
 ---
 
-Radius
+# Proximaler Radius
+
+### Mason Klassifikation
+
+![mason-klassifikation](assets/mason-klassifikation.jpg)
 
