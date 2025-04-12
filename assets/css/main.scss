@@ -18,6 +18,8 @@ search: false
   max-width: 1000px;
 }
 
-.site-footer {
+footer,
+.page__footer-follow,
+.page__footer-copyright {
   display: none !important;
 }
