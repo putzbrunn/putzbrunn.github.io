@@ -3,3 +3,12 @@ footer,
 .page__footer-copyright {
   display: none !important;
 }
+
+.page__hero--overlay .page__title,
+.page__hero--overlay .page__lead {
+  text-align: center;
+}
+
+.page__hero--overlay .page__meta {
+  justify-content: center;
+}
