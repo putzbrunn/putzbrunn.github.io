@@ -1,7 +1,7 @@
 ---
 title: "Sakrum"
 layout: single
-permalink: /spine/sakrum/
+permalink: /stamm/sakrum/
 sidebar:
   nav: spine_menu
 parent: "Wirbelsäule"

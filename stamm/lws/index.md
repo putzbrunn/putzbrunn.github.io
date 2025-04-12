@@ -1,7 +1,7 @@
 ---
 title: "Lendenwirbelsäule"
 layout: single
-permalink: /spine/lws/
+permalink: /stamm/lws/
 sidebar:
   nav: spine_menu
 parent: "Wirbelsäule"

@@ -1,7 +1,7 @@
 ---
 title: "Brustwirbelsäule"
 layout: single
-permalink: /spine/bws/
+permalink: /stamm/bws/
 sidebar:
   nav: spine_menu
 parent: "Wirbelsäule"

@@ -1,7 +1,7 @@
 ---
 title: "Becken"
 layout: single
-permalink: /spine/becken/
+permalink: /stamm/becken/
 sidebar:
   nav: spine_menu
 parent: "Wirbelsäule"
