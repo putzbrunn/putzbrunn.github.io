@@ -7,5 +7,7 @@ header:
   show_overlay_excerpt: false
 ---
 
+![putzbrunn-klassifikationen-header](assets/images/putzbrunn-klassifikationen-header.jpg)
+
 Welcome to the Minimal Mistakes-powered GitHub Pages site.
 
