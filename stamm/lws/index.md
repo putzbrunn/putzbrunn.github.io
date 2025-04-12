@@ -11,5 +11,6 @@ header:
   show_overlay_excerpt: false
 ---
 
-Lendenwirbelsäule
+# Lendenwirbelsäule
 
+![bws-lws-ao](assets/bws-lws-ao.jpg)
