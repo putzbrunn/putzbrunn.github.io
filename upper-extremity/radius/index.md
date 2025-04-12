@@ -11,5 +11,5 @@ header:
   show_overlay_excerpt: false
 ---
 
-Schulterblatt
+Radius
 
