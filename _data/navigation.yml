@@ -1,0 +1,23 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Wirbelsäule"
+    url: /spine/
+  - title: "Obere Extremitäten"
+    url: /upper-extremity/
+  - title: "Becken"
+    url: /becken/
+  - title: "Untere Extremität"
+    url: /lower-extremity/
+
+spine_menu:
+  - title: "🏠 Home"
+    url: /
+  - title: "Wirbelsäule Übersicht"
+    url: /spine/
+  - title: "HWS"
+    url: /spine/hws/
+  - title: "BWS"
+    url: /spine/bws/
+  - title: "LWS"
+    url: /spine/lws/

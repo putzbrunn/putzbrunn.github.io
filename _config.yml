@@ -1,0 +1,18 @@
+title: "Putzbrunn Fraktur-Klassifikationen"
+description: "Frakturklassifikationen, wie man sie in Putzbrunn verwendet"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-include-cache
+
+# Theme settings
+minimal_mistakes_skin: "default"
+locale: "de-DE"
+
+# Optional sidebar nav
+sidebar:
+  nav: "main"
+
+# Optional Google Fonts and SEO
+author:
+  name: "Putzbrunn Crew"
