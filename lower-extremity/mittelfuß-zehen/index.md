@@ -19,6 +19,10 @@ toc_sticky: true
 
 ![polzer-klassifikation](assets/polzer-klassifikation.png)
 
+
+
+
+
 ## Lawrence-Botte Klassifikation
 
 ![lawrence-botte_illustration](assets/lawrence-botte_illustration-1744478580385-32.png)
