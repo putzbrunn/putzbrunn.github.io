@@ -1,9 +1,6 @@
 ---
-layout: home
+layout: single
 title: "Übersicht"
-header:
-  overlay_image: /assets/images/header-berge-bw-advanced.jpg
-  show_overlay_excerpt: false
 ---
 
 ![putzbrunn-klassifikationen-header](assets/images/putzbrunn-klassifikationen.jpg)
