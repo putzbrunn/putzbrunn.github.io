@@ -9,5 +9,3 @@ header:
   show_overlay_excerpt: false
 ---
 
-Obere Extremität
-

@@ -82,6 +82,7 @@ volles_menu:
       - title: "Wirbelsäule osteoporotisch"
         url: /stamm/ws-osteoporotisch/
   - title: "💪 Obere Extremität"
+    url: /upper-extremity/
     children:
       - title: "Clavicula"
         url: /upper-extremity/clavicula/
@@ -96,6 +97,7 @@ volles_menu:
       - title: "Mittelhand & Finger"
         url: /upper-extremity/mittelhand-finger/
   - title: "🍗 Untere Extremität"
+    url: /lower-extremity/
     children:
       - title: "Femur"
         url: /lower-extremity/femur/
