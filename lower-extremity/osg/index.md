@@ -17,7 +17,7 @@ toc_sticky: true
 
 Beste Darstellung auf [radiologyassistant.nl](https://radiologyassistant.nl/musculoskeletal/ankle/weber-and-lauge-hansen-classification) 🌟
 
-![lauge-hansen-klassifikation](assets/lauge-hansen-klassifikation.jpeg)
+![lauge-hansen-klassifikation](assets/lauge-hansen-klassifikation.jpg)
 
 ## Supination-Adduktion
 
