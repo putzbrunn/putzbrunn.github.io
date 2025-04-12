@@ -11,5 +11,11 @@ header:
   show_overlay_excerpt: false
 ---
 
-Schulterblatt
+## Euler & Rüedi
+
+![euler-ruedi_uebersicht](assets/euler-ruedi_uebersicht.png)
+
+![euler-ruedi_detail](assets/euler-ruedi_detail.png)
+
+![euler-ruedi_tabelle](assets/euler-ruedi_tabelle.jpg)
 
