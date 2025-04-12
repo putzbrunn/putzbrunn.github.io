@@ -1,4 +1,4 @@
-![Putzbrunn](assets/putzbrunn.jpg)
+![putzbrunn-breit](assets/putzbrunn-breit.jpg)
 
 # Die Frakturklassifikationen in Putzbrunn
 
