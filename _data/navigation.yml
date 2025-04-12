@@ -1,19 +1,17 @@
 main:
   - title: "Home"
     url: /
-  - title: "Körperstamm"
+  - title: "👿 Körperstamm"
     url: /stamm/
-  - title: "Obere Extremitäten"
+  - title: "💪 Obere Extremitäten"
     url: /upper-extremity/
-  - title: "Becken"
-    url: /becken/
-  - title: "Untere Extremität"
+  - title: "🍗 Untere Extremität"
     url: /lower-extremity/
 
 stamm_menu:
   - title: "🏠 Home"
     url: /
-  - title: "Wirbelsäule"
+  - title: "👿 Wirbelsäule"
     children:
     - title: "Halswirbelsäule (HWS)"
       url: /stamm/hws/
@@ -29,7 +27,7 @@ stamm_menu:
 upper-extremity_menu:
   - title: "🏠 Home"
     url: /
-  - title: "Obere Extremität"
+  - title: "💪 Obere Extremität"
     children:
     - title: "Clavicula"
       url: /upper-extremity/clavicula/
@@ -47,7 +45,7 @@ upper-extremity_menu:
 lower-extremity_menu:
   - title: "🏠 Home"
     url: /
-  - title: "Untere Extremität"
+  - title: "🍗 Untere Extremität"
     children:
     - title: "Femur"
       url: /lower-extremity/femur/
