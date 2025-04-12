@@ -15,12 +15,12 @@ stamm_menu:
     url: /
   - title: "🌳 Wirbelsäule"
     children:
-      - title: "Halswirbelsäule (HWS)"
+      - title: "Halswirbelsäule"
         url: /stamm/hws/
-      - title: "Brustwirbelsäule (BWS)"
-        url: /stamm/bws/
-      - title: "Lendenwirbelsäule (LWS)"
-        url: /stamm/lws/
+      - title: "Brust- & Lendenwirbelsäule"
+        url: /stamm/bws-lws/
+      - title: "Wirbelsäule osteoporotisch"
+        url: /stamm/ws-osteoporotisch/
   - title: "Becken"
     url: /stamm/becken/
   - title: "Sakrum"

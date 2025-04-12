@@ -11,7 +11,4 @@ header:
   show_overlay_excerpt: false
 ---
 
-<a href="/stamm/lws/assets/bws-lws-ao.jpg" target="_blank">
-  <img src="/stamm/lws/assets/bws-lws-ao.jpg" alt="AO-Klassifikation BWS/LWS" style="max-width: 500px;" />
-</a>
-
+![of-klassifikation_osteoporotisch-wirbelsäule](assets/of-klassifikation_osteoporotisch-wirbels%C3%A4ule.jpg)
