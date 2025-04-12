@@ -1,7 +1,7 @@
 ---
-title: "Lendenwirbelsäule"
+title: "Osteoporotische Frakturen Wirbelsäule"
 layout: single
-permalink: /stamm/lws/
+permalink: /stamm/ws-osteoporotisch/
 sidebar:
   nav: stamm_menu
 parent: "Wirbelsäule"
