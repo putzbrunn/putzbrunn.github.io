@@ -13,49 +13,50 @@ stamm_menu:
     url: /
   - title: "👿 Wirbelsäule"
     children:
-    - title: "Halswirbelsäule (HWS)"
-      url: /stamm/hws/
-    - title: "Brustwirbelsäule (BWS)"
-      url: /stamm/bws/
-    - title: "Lendenwirbelsäule (LWS)"
-      url: /stamm/lws/
+      - title: "Halswirbelsäule (HWS)"
+        url: /stamm/hws/
+      - title: "Brustwirbelsäule (BWS)"
+        url: /stamm/bws/
+      - title: "Lendenwirbelsäule (LWS)"
+        url: /stamm/lws/
   - title: "Becken"
-      url: /stamm/becken/
+    url: /stamm/becken/
   - title: "Sakrum"
-      url: /stamm/sakrum/
+    url: /stamm/sakrum/
+
       
 upper-extremity_menu:
   - title: "🏠 Home"
     url: /
   - title: "💪 Obere Extremität"
     children:
-    - title: "Clavicula"
-      url: /upper-extremity/clavicula/
-    - title: "Schulterblatt"
-      url: /upper-extremity/schulterblatt/
-    - title: "Humerus"
-      url: /upper-extremity/humerus/
-    - title: "Radius"
-      url: /upper-extremity/radius/
-    - title: "Handwurzel"
-      url: /upper-extremity/handwurzel/
-    - title: "Mittelhand & Finger"
-      url: /upper-extremity/mittelhand-finger/
+      - title: "Clavicula"
+        url: /upper-extremity/clavicula/
+      - title: "Schulterblatt"
+        url: /upper-extremity/schulterblatt/
+      - title: "Humerus"
+        url: /upper-extremity/humerus/
+      - title: "Radius"
+        url: /upper-extremity/radius/
+      - title: "Handwurzel"
+        url: /upper-extremity/handwurzel/
+      - title: "Mittelhand & Finger"
+        url: /upper-extremity/mittelhand-finger/
       
 lower-extremity_menu:
   - title: "🏠 Home"
     url: /
   - title: "🍗 Untere Extremität"
     children:
-    - title: "Femur"
-      url: /lower-extremity/femur/
-    - title: "Tibia"
-      url: /lower-extremity/tibia/
-    - title: "Oberes Sprunggelenk (OSG)"
-      url: /lower-extremity/osg/
-    - title: "Fußwurzel"
-      url: /lower-extremity/fußwurzel/
-    - title: "calcaneus"
-      url: /lower-extremity/calcaneus/
-    - title: "Mittelfuß & Zehen"
-      url: /lower-extremity/mittelfuß-zehen/
+      - title: "Femur"
+        url: /lower-extremity/femur/
+      - title: "Tibia"
+        url: /lower-extremity/tibia/
+      - title: "Oberes Sprunggelenk (OSG)"
+        url: /lower-extremity/osg/
+      - title: "Fußwurzel"
+        url: /lower-extremity/fußwurzel/
+      - title: "calcaneus"
+        url: /lower-extremity/calcaneus/
+      - title: "Mittelfuß & Zehen"
+        url: /lower-extremity/mittelfuß-zehen/
