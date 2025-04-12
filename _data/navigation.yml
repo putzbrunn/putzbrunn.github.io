@@ -51,7 +51,7 @@ lower-extremity_menu:
         url: /lower-extremity/femur/
       - title: "Tibia"
         url: /lower-extremity/tibia/
-      - title: "Oberes Sprunggelenk (OSG)"
+      - title: "Oberes Sprunggelenk"
         url: /lower-extremity/osg/
       - title: "Fußwurzel"
         url: /lower-extremity/fußwurzel/

@@ -3,7 +3,7 @@ title: "Brustwirbelsäule"
 layout: single
 permalink: /stamm/bws/
 sidebar:
-  nav: spine_menu
+  nav: stamm_menu
 parent: "Wirbelsäule"
 nav_order: 1
 header:
