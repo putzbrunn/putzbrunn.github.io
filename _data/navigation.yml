@@ -81,10 +81,6 @@ volles_menu:
         url: /stamm/bws-lws/
       - title: "Wirbelsäule osteoporotisch"
         url: /stamm/ws-osteoporotisch/
-  - title: "Becken"
-    url: /stamm/becken/
-  - title: "Sakrum"
-    url: /stamm/sakrum/
   - title: "💪 Obere Extremität"
     children:
       - title: "Clavicula"
@@ -113,6 +109,10 @@ volles_menu:
         url: /lower-extremity/calcaneus/
       - title: "Mittelfuß & Zehen"
         url: /lower-extremity/mittelfuß-zehen/
+  - title: "Becken"
+    url: /stamm/becken/
+  - title: "Sakrum"
+    url: /stamm/sakrum/
   - title: "🚸 Kinder"
     children:
       - title: "Wachstumsfuge"
