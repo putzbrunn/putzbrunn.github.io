@@ -3,3 +3,7 @@ footer,
 .page__footer-copyright {
   display: none !important;
 }
+
+.page__content {
+  max-width: 1600px;  // Or whatever width you want
+}
