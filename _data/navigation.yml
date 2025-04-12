@@ -21,3 +21,19 @@ spine_menu:
     url: /spine/bws/
   - title: "LWS"
     url: /spine/lws/
+    
+    upper-extremity_menu:
+  - title: "🏠 Home"
+    url: /
+  - title: "Clavicula"
+    url: /upper-extremity/clavicula/
+  - title: "Schulterblatt"
+    url: /upper-extremity/schulterblatt/
+  - title: "Humerus"
+    url: /upper-extremity/humerus/
+  - title: "Radius"
+    url: /upper-extremity/radius/
+  - title: "Handwurzel"
+    url: /upper-extremity/handwurzel/    
+  - title: "Mittelhand & Finger"
+    url: /upper-extremity/mittelhand-finger/

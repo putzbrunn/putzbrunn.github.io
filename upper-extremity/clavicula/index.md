@@ -1,9 +1,10 @@
 ---
-title: "Obere Extremität"
+title: "Clavicula"
 layout: single
-permalink: /:upper-extremity/
+permalink: /:upper-extremity/:clavicula/
 sidebar:
   nav: upper-extremity_menu
+
 
 ---
 
