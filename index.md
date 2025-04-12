@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Übersicht"
+sidebar:
+  nav: volles_menu
 header:
   overlay_image: /assets/images/header-berge-bw.jpg
   show_overlay_excerpt: false

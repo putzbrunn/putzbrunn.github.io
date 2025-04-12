@@ -69,3 +69,51 @@ kinder_menu:
     children:
       - title: "Wachstumsfuge"
         url: /kinder/wachstumsfuge/
+        
+volles_menu:
+  - title: "🏠 Home"
+    url: /
+  - title: "🌳 Wirbelsäule"
+    children:
+      - title: "Halswirbelsäule"
+        url: /stamm/hws/
+      - title: "Brust- & Lendenwirbelsäule"
+        url: /stamm/bws-lws/
+      - title: "Wirbelsäule osteoporotisch"
+        url: /stamm/ws-osteoporotisch/
+  - title: "Becken"
+    url: /stamm/becken/
+  - title: "Sakrum"
+    url: /stamm/sakrum/
+  - title: "💪 Obere Extremität"
+    children:
+      - title: "Clavicula"
+        url: /upper-extremity/clavicula/
+      - title: "Schulterblatt"
+        url: /upper-extremity/schulterblatt/
+      - title: "Humerus"
+        url: /upper-extremity/humerus/
+      - title: "Radius"
+        url: /upper-extremity/radius/
+      - title: "Handwurzel"
+        url: /upper-extremity/handwurzel/
+      - title: "Mittelhand & Finger"
+        url: /upper-extremity/mittelhand-finger/
+  - title: "🍗 Untere Extremität"
+    children:
+      - title: "Femur"
+        url: /lower-extremity/femur/
+      - title: "Tibia"
+        url: /lower-extremity/tibia/
+      - title: "Oberes Sprunggelenk"
+        url: /lower-extremity/osg/
+      - title: "Fußwurzel"
+        url: /lower-extremity/fußwurzel/
+      - title: "Calcaneus"
+        url: /lower-extremity/calcaneus/
+      - title: "Mittelfuß & Zehen"
+        url: /lower-extremity/mittelfuß-zehen/
+  - title: "🚸 Kinder"
+    children:
+      - title: "Wachstumsfuge"
+        url: /kinder/wachstumsfuge/
