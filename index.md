@@ -2,8 +2,7 @@
 layout: home
 title: "Übersicht"
 header:
-  overlay_image: /assets/images/header-berge.jpg
-  overlay_filter: 0.3
+  overlay_image: /assets/images/header-berge-bw.jpg
   show_overlay_excerpt: false
 ---
 
