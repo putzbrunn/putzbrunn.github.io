@@ -15,7 +15,7 @@ toc_sticky: true
 
 # Processus anterius calcanei (PAC)
 
-### Degan-Klassifikation
+## Degan-Klassifikation
 
 - Typ I: nicht-dislozierte Fraktur, welche typischerweise die Spitze des PAC betrifft
 - Typ II: dislozierte Fraktur, welche die Gelenkfläche nicht miteinschließt
@@ -25,7 +25,7 @@ toc_sticky: true
 
 # Artikuläre Clacaneusfrakturen
 
-### Sanders Klassifikation
+## Sanders Klassifikation
 
 ![calcaneus_sanders-1](assets/calcaneus_sanders-1.jpg)
 
