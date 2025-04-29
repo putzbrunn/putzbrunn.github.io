@@ -29,6 +29,8 @@ toc_sticky: true
 
 ![calcaneus_sanders-1](assets/calcaneus_sanders-1.jpg)
 
+
+
 ![calcaneus_sanders-2](assets/calcaneus_sanders-2.jpg)
 
 - **type 1:** includes all intraarticular fractures that have less than 2 mm of articular displacement, regardless of the number of  fracture lines/fragments present
