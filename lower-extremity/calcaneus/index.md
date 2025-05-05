@@ -25,7 +25,7 @@ toc_sticky: true
 
 # Artikuläre Clacaneusfrakturen
 
-## Sanders Klassifikation
+## Sanders slassifikation
 
 ![calcaneus_sanders-1](assets/calcaneus_sanders-1.jpg)
 
