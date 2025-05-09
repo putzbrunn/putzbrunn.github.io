@@ -86,7 +86,7 @@ volles_menu:
   - title: "💪 Obere Extremität"
     url: /upper-extremity/
     children:
-      - title: "Clavicula"
+      - title: "Clavicula & AC-Gelenk"
         url: /upper-extremity/clavicula/
       - title: "Schulterblatt"
         url: /upper-extremity/schulterblatt/

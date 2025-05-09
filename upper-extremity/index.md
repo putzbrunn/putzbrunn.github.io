@@ -7,5 +7,6 @@ sidebar:
 header:
   overlay_image: /assets/images/header-berge-bw-advanced.jpg
   show_overlay_excerpt: false
+
 ---
 
