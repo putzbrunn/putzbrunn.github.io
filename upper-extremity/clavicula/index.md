@@ -57,7 +57,7 @@ toc_sticky: true
 - **Typ I**: Stabile Fraktur lateral des Ligamentum coracoclaviculare mit minimaler Dislokation und intakten Bändern.
 - **Typ II:** Instabile Fraktur mit kranialer Dislokation des medialen Fragmentes durch Zug des Musculus sternocleidomastoideus
   - **Typ IIa:** Medial zum intakten Ligamentum coracoclaviculare.
-  - **Typ IIb:** Fraktur innerhalb des Ligamentum coracoclaviculare. Ligamentum conoideum [rupturiert](https://flexikon.doccheck.com/de/Ruptur), Ligamentum trapezoideum intakt.
+  - **Typ IIb:** Fraktur innerhalb des Ligamentum coracoclaviculare. Ligamentum conoideum rupturiert, Ligamentum trapezoideum intakt.
   - **Typ IIIc (modifiziert nach Craig):** Fraktur lateral des rupturierten Ligamentum coracoclaviculare.
 - **Typ III:** Stabile intraartikuläre Fraktur mit Beteiligung des Akromioklavikulargelenks und intaktem Ligamentum coracoclaviculare.
 - **Typ IV:** Kindliche stabile Epiphysenfugenfraktur Salter-Harris Typ 1 mit Dislokation des medialen Fragments nach superior, da die Periosthülle von der inferioren Kortikalis abgerissen wird ("periostales Stripping"). Intaktes Ligamentum coracoclaviculare.
