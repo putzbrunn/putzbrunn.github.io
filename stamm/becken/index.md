@@ -13,9 +13,51 @@ toc: true
 toc_sticky: true
 ---
 
-[AO-Klassifikation 2018 als PDF](/assets/pdf/AO-Klassifikation-2018.pdf)
+# FFP-Klassifikation
 
-# 61 - Beckenring
+Fragility fractures of the pelvis (FFP)
+
+![beckenring_ffp-1](assets/beckenring_ffp-1.png)
+
+- **Typ I: ** Isolierte anteriore Beckenringfrakturen ohne Beteiligung der posterioren Strukturen
+  - **Typ Ia:** Einseitig
+  - **Typ Ib:** Beidseitig
+- **Typ II:** Nichtdislozierte Frakturen des hinteren Beckenringes
+  - **Typ IIa:** isoliert dorsale Verletzung
+  - **Typ IIb:** Kompressionsfraktur der vorderen Massa lateralis des Sakrums mit einer Instabilität des vorderen Beckenringes
+  - **Typ IIc:** Unverschobene, aber vollständige Sakrumfraktur, Iliumfraktur oder iliosakrale Verletzung mit begleitender Instabilität des vorderen Beckenringes.
+- **Typ III:** Komplette und dislozierte, einseitig posteriore Verletzungen mit hoher Instabilität
+  - **Typ IIIa:** verschobene Iliumfraktur
+  - **Typ IIIb:** verschobene unilaterale iliosakrale Ruptur
+  - **Typ IIIc:** verschobene unilaterale Sakrumfraktur
+- **Typ IV:** Bilaterale verschobene hintere Beckenringverletzungen mit/ohne gleichzeitiger Instabilität des vorderen Beckenringes
+  - **Typ IVa:** bilaterale Iliumfrakturen oder bilaterale iliosakrale Rupturen
+  - **Typ IVb:** Spinopelvine Sprengungen mit einhergehenden bilateralen vertikalen Läsionen der Massa lateralis des Sakrums und einer gleichzeitigen horizontalen Komponente, die die beiden vertikalen Läsionen verbindet (U- oder H-Fraktur des Sakrums)
+  - **Typ IVc:** Kombination verschiedener dislozierter Instabilitäten des hinteren Beckenringes
+
+
+
+**FFP I**
+
+![beckenring_ffp-2a](assets/beckenring_ffp-2a.png)
+
+**FFP II**
+
+![beckenring_ffp-2b](assets/beckenring_ffp-2b.png)
+
+**FFP III**
+
+![beckenring_ffp-2c](assets/beckenring_ffp-2c.png)
+
+**FFP IV**
+
+![beckenring_ffp-2d](assets/beckenring_ffp-2d.png)
+
+
+
+# AO-Klassifkikation
+
+[AO-Klassifikation 2018 als PDF](/assets/pdf/AO-Klassifikation-2018.pdf)
 
 ![beckenring_ao_übersicht](assets/beckenring_ao_%C3%BCbersicht.jpg)
 
