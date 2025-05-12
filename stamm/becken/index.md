@@ -37,19 +37,19 @@ Fragility fractures of the pelvis (FFP)
 
 
 
-**FFP I**
+### FFP I
 
 ![beckenring_ffp-2a](assets/beckenring_ffp-2a.png)
 
-**FFP II**
+### FFP II
 
 ![beckenring_ffp-2b](assets/beckenring_ffp-2b.png)
 
-**FFP III**
+### FFP III
 
 ![beckenring_ffp-2c](assets/beckenring_ffp-2c.png)
 
-**FFP IV**
+### FFP IV
 
 ![beckenring_ffp-2d](assets/beckenring_ffp-2d.png)
 
