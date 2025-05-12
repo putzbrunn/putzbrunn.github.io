@@ -12,5 +12,8 @@ header:
 
 ---
 
-Mittelhand & Finger
+# Finger
 
+## Fingerkuppenamputation - Ishikawa
+
+![finger_ishikawa](assets/finger_ishikawa.jpg)
