@@ -1,10 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "🌳 Wirbelsäule"
+  - title: "🌳 Wirbelsäule & 🏊 Becken"
     url: /stamm/
-  - title: "🏊 Becken"
-    url: /stamm/becken/
   - title: "💪 Obere Extremitäten"
     url: /upper-extremity/
   - title: "🍗 Untere Extremität"
