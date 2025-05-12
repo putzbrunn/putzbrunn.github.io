@@ -19,7 +19,7 @@ Fragility fractures of the pelvis (FFP)
 
 ![beckenring_ffp-1](assets/beckenring_ffp-1.png)
 
-- **Typ I: ** Isolierte anteriore Beckenringfrakturen ohne Beteiligung der posterioren Strukturen
+- **Typ I:** Isolierte anteriore Beckenringfrakturen ohne Beteiligung der posterioren Strukturen
   - **Typ Ia:** Einseitig
   - **Typ Ib:** Beidseitig
 - **Typ II:** Nichtdislozierte Frakturen des hinteren Beckenringes
