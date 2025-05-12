@@ -15,9 +15,9 @@ toc_sticky: true
 
 # FFP-Klassifikation (Beckenring)
 
-Fragility fractures of the pelvis (FFP) --> siehe [Becken](..\becken\index.md) 
+Fragility fractures of the pelvis (FFP) 
 
-
+--> siehe [Becken](..\becken\index.md) 
 
 
 
