@@ -1,9 +1,9 @@
 main:
   - title: "Home"
     url: /
-  - title: "🌳 Körperstamm"
+  - title: "🌳 Wirbelsäule"
     url: /stamm/
-- title: "🏊 Becken"
+  - title: "🏊 Becken"
     url: /stamm/becken/
   - title: "💪 Obere Extremitäten"
     url: /upper-extremity/
@@ -11,7 +11,7 @@ main:
     url: /lower-extremity/
   - title: "🚸 Kinder"
     url: /kinder/
-        
+
 volles_menu:
   - title: "🏠 Home"
     url: /
