@@ -15,7 +15,7 @@ toc_sticky: true
 
 # Femurkopf
 
-### Pipkin Klassifkikation
+## Pipkin Klassifkikation
 
 ![femur_kopf_pipkin](assets/femur_kopf_pipkin.png)
 
@@ -24,7 +24,7 @@ toc_sticky: true
 - **Pipkin III**: Fraktur der Kalotte (Pipkin I oder Pipkin II) in Kombination mit einer medialen Schenkelhalsfraktur
 - **Pipkin IV**: Fraktur der Kalotte (Pipkin I oder Pipkin II) in Kombination mit einer dorso-kranialen Pfannenrandfraktur
 
-### AO-Klassifikation (31C)
+## AO-Klassifikation (31C)
 
 - **C1**: reine Spaltung des Hüftkopfes
 - **C2**: reine Impression des Hüftkopfes
@@ -40,7 +40,7 @@ toc_sticky: true
 
 # Schenkelhals
 
-### Pauwels-Klassifikation
+## Pauwels-Klassifikation
 
 Je nach Literaturquelle andere Gradzahlen. 
 
@@ -51,7 +51,7 @@ Je nach Literaturquelle andere Gradzahlen.
 
 
 
-### Garden-Klassifikation
+## Garden-Klassifikation
 
 ![femur_schenkelhals_garden](assets/femur_schenkelhals_garden.jpeg)
 
@@ -64,7 +64,7 @@ Je nach Literaturquelle andere Gradzahlen.
 - **Garden IV:**  *Komplett disloziert*
   Das proximale und distale Frakturfragment berühren sich an keiner Stelle, eine ausgeprägte Dislokation liegt vor. Der Hüftkopf verharrt in Nähe des Acetabulum. 
 
-### AO-Klassifikation (31C)
+## AO-Klassifikation (31C)
 
 ![femur_schenkelhals_ao-klassifikation](assets/femur_schenkelhals_ao-klassifikation.jpg)
 
@@ -76,7 +76,7 @@ Je nach Literaturquelle andere Gradzahlen.
 
 # Trochanterregion
 
-### AO-Klassifikation (31A)
+## AO-Klassifikation (31A)
 
 ![femur_trochanterregion_ao-klassifikation](assets/femur_trochanterregion_ao-klassifikation.jpg)
 
@@ -86,7 +86,7 @@ Je nach Literaturquelle andere Gradzahlen.
 
 # Diaphyse
 
-### AO-Klassifikation
+## AO-Klassifikation
 
 ![femur_diaphyse](assets/femur_diaphyse.jpg)
 
@@ -102,7 +102,7 @@ Je nach Literaturquelle andere Gradzahlen.
 
 # Distaler Femur
 
-### AO-Klassifikation
+## AO-Klassifikation
 
 --> s. PDF-Auszug AO-Klassifikation [PDF-Auszug AO-Klassifikation 2018](assets/ao-klassifikation-2018_femur.pdf)
 
