@@ -23,6 +23,8 @@ volles_menu:
         url: /stamm/ws-osteoporotisch/
       - title: "Sakrum"
         url: /stamm/sakrum/
+  - title: "🏊 Becken"
+    url: /stamm/becken/
   - title: "💪 Obere Extremität"
     url: /upper-extremity/
     children:
@@ -53,8 +55,6 @@ volles_menu:
         url: /lower-extremity/calcaneus/
       - title: "Mittelfuß & Zehen"
         url: /lower-extremity/mittelfuß-zehen/
-  - title: "Becken"
-    url: /stamm/becken/
   - title: "🚸 Kinder"
     children:
       - title: "Wachstumsfuge"
