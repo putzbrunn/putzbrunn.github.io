@@ -3,6 +3,8 @@ main:
     url: /
   - title: "🌳 Körperstamm"
     url: /stamm/
+- title: "🏊 Becken"
+    url: /stamm/becken/
   - title: "💪 Obere Extremitäten"
     url: /upper-extremity/
   - title: "🍗 Untere Extremität"
