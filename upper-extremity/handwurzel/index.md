@@ -14,7 +14,9 @@ header:
 
 # Handwurzel
 
-## Scaphoidfraktur - Krimmer & Herbert
+## Scaphoidfraktur
+
+### Krimmer & Herbert
 
 **Typ A:** stabile Frakturen 
 
