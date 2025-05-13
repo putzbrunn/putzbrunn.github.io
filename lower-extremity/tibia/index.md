@@ -32,6 +32,11 @@ toc_sticky: true
 
 Details siehe [PDF Auszug Tibia](assets/tibia_ao-klassifikation.pdf) aus dem Kompendium 2018
 
+- **Typ A:** extraartikulär 
+
+- **Typ B:** intraartikulär, monokondylär (Schatzker 1-4) 
+- **Typ C:** intraartikulär, bikondylär (Schatzker 5-6) 
+
 ![tibia_tibiakopf_ao-klassifikation-1](assets/tibia_tibiakopf_ao-klassifikation-1.jpg)
 
 ### 41A
