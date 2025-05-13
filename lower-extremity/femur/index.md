@@ -64,7 +64,7 @@ Je nach Literaturquelle andere Gradzahlen.
 - **Garden IV:**  *Komplett disloziert*
   Das proximale und distale Frakturfragment berühren sich an keiner Stelle, eine ausgeprägte Dislokation liegt vor. Der Hüftkopf verharrt in Nähe des Acetabulum. 
 
-## AO-Klassifikation (31C)
+## AO-Klassifikation (31B)
 
 ![femur_schenkelhals_ao-klassifikation](assets/femur_schenkelhals_ao-klassifikation.jpg)
 
