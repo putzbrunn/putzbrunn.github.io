@@ -51,3 +51,65 @@ Details siehe [PDF Auszug Tibia](assets/tibia_ao-klassifikation.pdf) aus dem Kom
 
 ![tibia_tibiakopf_ao-klassifikation-4](assets/tibia_tibiakopf_ao-klassifikation-4.jpg)
 
+# Tibiaschaft
+
+## AO-Klassifikation (42)
+
+Details siehe [PDF Auszug Tibia](assets/tibia_ao-klassifikation.pdf) aus dem Kompendium 2018
+
+![tibia_diaphyse_ao-klassifikation-1](assets/tibia_diaphyse_ao-klassifikation-1.jpg)
+
+### 42A
+
+![tibia_diaphyse_ao-klassifikation-2](assets/tibia_diaphyse_ao-klassifikation-2.jpg)
+
+### 42B
+
+![tibia_diaphyse_ao-klassifikation-3](assets/tibia_diaphyse_ao-klassifikation-3.jpg)
+
+### 42C
+
+![tibia_diaphyse_ao-klassifikation-4](assets/tibia_diaphyse_ao-klassifikation-4.jpg)
+
+
+
+
+
+# Tibia distal
+
+## AO-Klassifikation (43)
+
+Details siehe [PDF Auszug Tibia](assets/tibia_ao-klassifikation.pdf) aus dem Kompendium 2018
+
+![tibia_distal_ao-klassifikation-1](assets/tibia_distal_ao-klassifikation-1.jpg)
+
+### 43A
+
+![tibia_distal_ao-klassifikation-2](assets/tibia_distal_ao-klassifikation-2.jpg)
+
+### 43B
+
+![tibia_distal_ao-klassifikation-3](assets/tibia_distal_ao-klassifikation-3.jpg)
+
+### 43C
+
+![tibia_distal_ao-klassifikation-4](assets/tibia_distal_ao-klassifikation-4.jpg)
+
+
+
+# Periprothetische Fraktur Tibiakopf
+
+![tibia_periprothetisch_mayo](assets/tibia_periprothetisch_mayo.jpg)
+
+**Lokalisation**
+
+- **Typ I:** Frakturen der Tibiakopfregion mit Kontakt zum Interface 
+- **Typ II:** Frakturen im meta-/diaphysären Übergangsbereich 
+- **Typ III:** Frakturen unterhalb der Tibiakomponente im Schaftbereich 
+- **Typ IV:** Frakturen mit Verletzung des distalen Kniestreckapparats 
+
+**Prothesenstabilität**
+
+- **A:** Prothese stabil 
+- **B:** Prothese locker 
+- **C:** Intraoperative Fraktur 

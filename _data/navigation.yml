@@ -59,3 +59,9 @@ volles_menu:
     children:
       - title: "Wachstumsfuge"
         url: /kinder/wachstumsfuge/
+      - title: "Übergangsfrakturen"
+        url: /kinder/uebergangsfrakturen/
+      - title: "Kindlicher Radius"
+        url: /kinder/kindlicher-radius/
+      - title: "Ruhigstellungszeiten"
+        url: /kinder/ruhigstellungszeiten-kinder/
