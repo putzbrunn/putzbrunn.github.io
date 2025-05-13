@@ -13,7 +13,9 @@ toc: true
 toc_sticky: true
 ---
 
-# FFP-Klassifikation
+# Beckenring
+
+## FFP-Klassifikation
 
 Fragility fractures of the pelvis (FFP)
 
@@ -37,25 +39,31 @@ Fragility fractures of the pelvis (FFP)
 
 
 
-## FFP I
+### FFP I
 
 ![beckenring_ffp-2a](assets/beckenring_ffp-2a.png)
 
-## FFP II
+### FFP II
 
 ![beckenring_ffp-2b](assets/beckenring_ffp-2b.png)
 
-## FFP III
+### FFP III
 
 ![beckenring_ffp-2c](assets/beckenring_ffp-2c.png)
 
-## FFP IV
+### FFP IV
 
 ![beckenring_ffp-2d](assets/beckenring_ffp-2d.png)
 
 
 
-# AO-Klassifkikation
+
+
+
+
+
+
+## AO-Klassifkikation
 
 [AO-Klassifikation 2018 als PDF](/assets/pdf/AO-Klassifikation-2018.pdf)
 
@@ -63,19 +71,19 @@ Fragility fractures of the pelvis (FFP)
 
 
 
-## 61A - Hinterer Beckenring intakt
+### 61A - Hinterer Beckenring intakt
 
 ![beckenring_ao_A_intakter-hinterer-ring](assets/beckenring_ao_A_intakter-hinterer-ring.jpg)
 
 
 
-## 61B - Hinterer Ring teilweise intakt
+### 61B - Hinterer Ring teilweise intakt
 
 ![beckenring_ao_B_inkomplette-unterbrechung-hinterer-ring](assets/beckenring_ao_B_inkomplette-unterbrechung-hinterer-ring.jpg)
 
 
 
-## 61C - Hinterer Ring unterbrochen
+### 61C - Hinterer Ring unterbrochen
 
 ![beckenring_ao_C_komplette-unterbrechung-hinterer-ring](assets/beckenring_ao_C_komplette-unterbrechung-hinterer-ring.jpg)
 
@@ -83,24 +91,67 @@ Fragility fractures of the pelvis (FFP)
 
 
 
-# 62 - Acetabulum
+
+
+
+
+
+
+# Acetabulum
+
+## **Letournel/Judet** Klassifikation
+
+![becken_acetabulum_letournel-judet-1](assets/becken_acetabulum_letournel-judet-1.jpeg)
+
+### Grundtypen:
+
+- **Typ 1** – Fraktur hinterer Pfannenrand/mit und ohne Luxation des Hu¨ftkopfes nach dorsal
+- **Typ 2** – Abrissfraktur dorsaler Pfeiler mit Dislokation, oft dorsmed. Hu¨ftkopfsub-/-luxation
+- **Typ 3** – Abbruch des ventralen Pfannenrandes
+- **Typ 4** – Abbruch des ventralen Pfeilers mit Dislokation, ventromed. Hu¨ftkopfsub-/-luxation
+- **Typ 5** – Querfrakturen durch das Acetabulum, Pfannendach intakt
+
+![becken_acetabulum_letournel-judet-2](assets/becken_acetabulum_letournel-judet-2.jpeg)
+
+### Kombinationsverletzungen:
+- **Typ 6** – T-Frakturen, Hu¨ftkopf medialisiert
+- **Typ 7** – Fraktur hinterer Pfeiler mit hinterem Pfannenrand
+- **Typ 8** – Querfraktur mit hinterem Pfannenrandbruch
+- **Typ 9** – Abriss des ventralen Pfeilers mit hinterem Querbruch
+- **Typ 10** – Zweipfeilerfraktur
+
+![becken_acetabulum_letournel-judet-3](assets/becken_acetabulum_letournel-judet-3.jpeg)
+
+
+
+
+
+
+
+## AO-Klassifikation (62)
 
 ![acetabulum_ao_uebersicht](assets/acetabulum_ao_uebersicht.jpg)
 
 
 
-## 62A - Gelenkfläche partiell, isolierte Säule und/oder Wandfraktur
+### 62A
+
+**Gelenkfläche partiell, isolierte Säule und/oder Wandfraktur**
 
 ![acetabulum_ao_A](assets/acetabulum_ao_A.jpg)
 
 
 
-## 62B - Transversale partielle Fraktur der Gelenkfläche
+### 62B
+
+**Transversale partielle Fraktur der Gelenkfläche**
 
 ![acetabulum_ao_B](assets/acetabulum_ao_B.jpg)
 
 
 
-## 62C - Komplett artikuläre Fraktur, beide Säulen betroffen
+### 62C
+
+**Komplett artikuläre Fraktur, beide Säulen betroffen**
 
 ![acetabulum_ao_C](assets/acetabulum_ao_C.jpg)
