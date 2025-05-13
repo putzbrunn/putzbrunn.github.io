@@ -99,6 +99,8 @@ Details siehe [PDF Auszug Tibia](assets/tibia_ao-klassifikation.pdf) aus dem Kom
 
 # Periprothetische Fraktur Tibiakopf
 
+## Mayo-Klassifikation
+
 ![tibia_periprothetisch_mayo](assets/tibia_periprothetisch_mayo.jpg)
 
 **Lokalisation**
