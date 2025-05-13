@@ -103,7 +103,7 @@ Fragility fractures of the pelvis (FFP)
 
 ![becken_acetabulum_letournel-judet-1](assets/becken_acetabulum_letournel-judet-1.jpeg)
 
-### Grundtypen:
+### Grundtypen
 
 - **Typ 1** – Fraktur hinterer Pfannenrand/mit und ohne Luxation des Hu¨ftkopfes nach dorsal
 - **Typ 2** – Abrissfraktur dorsaler Pfeiler mit Dislokation, oft dorsmed. Hu¨ftkopfsub-/-luxation
@@ -113,8 +113,9 @@ Fragility fractures of the pelvis (FFP)
 
 ![becken_acetabulum_letournel-judet-2](assets/becken_acetabulum_letournel-judet-2.jpeg)
 
-### Kombinationsverletzungen:
-- **Typ 6** – T-Frakturen, Hu¨ftkopf medialisiert
+### Kombinationsverletzungen
+
+- **Typ 6** – T-Frakturen, Huftkopf medialisiert
 - **Typ 7** – Fraktur hinterer Pfeiler mit hinterem Pfannenrand
 - **Typ 8** – Querfraktur mit hinterem Pfannenrandbruch
 - **Typ 9** – Abriss des ventralen Pfeilers mit hinterem Querbruch
