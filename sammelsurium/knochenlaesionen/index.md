@@ -16,14 +16,34 @@ toc_sticky: true
 
 # Osteolytische Läsionen
 
-## Modifizierte Lodwick-Madewell Klassifikation
+## Lodwick Klassifikation
 
---> [Paper mit Bildbeispielen](https://ajronline.org/doi/10.2214/AJR.15.14368)
+- **Grad I:** Geographische, d.h. landkartenartig gut umschriebene Läsion
+  - **Grad Ia:** dünner, sklerotischer Rand
+  - **Grad Ib:** gut abgrenzbarer, nicht-sklerotischer Rand
+  - **Grad Ic:** unscharfer Rand
+- **Grad II:** Mottenfraßähnliche Begrenzung
+- **Grad III:** Permeatives Wachstum ohne erkennbare Grenzen
 
-![knochenveränderungen_osteolyse_modifizierte-lodwick-klassifikation](assets/knochenver%C3%A4nderungen_osteolyse_modifizierte-lodwick-klassifikation.jpeg)
+![knochenveränderungen_osteolyse_lodwick-3](assets/knochenver%C3%A4nderungen_osteolyse_lodwick-3.png)
 
 
 
-**Wahrscheinlichkeit für Malignität:**
 
-![knochenveränderungen_osteolyse_modifizierte-lodwick-klassifikation-2](assets/knochenver%C3%A4nderungen_osteolyse_modifizierte-lodwick-klassifikation-2.jpeg)
+
+### Entscheidungsbaum
+
+![knochenveränderungen_osteolyse_lodwick-1](assets/knochenver%C3%A4nderungen_osteolyse_lodwick-1.png)
+
+![knochenveränderungen_osteolyse_lodwick-2](assets/knochenver%C3%A4nderungen_osteolyse_lodwick-2.png)
+
+
+
+### Wahrscheinlichkeit für Malignität:
+
+- **Grad Ia:** 6 %
+- **Grad Ib:** 48 %
+- **Grad Ic:** 36 %
+- **Grad II:** 97 %
+- **Grad III:** 100 %
+
