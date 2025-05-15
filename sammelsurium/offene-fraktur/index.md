@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Wachstumsfuge"
-permalink: /kinder/wachstumsfuge/
+title: "Offene Frakturen"
+permalink: /sammelsurium/offene-fraktur/
 sidebar:
   nav: volles_menu
 parent: "Kinder"

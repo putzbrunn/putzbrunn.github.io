@@ -61,3 +61,5 @@ volles_menu:
     children:
       - title: "Offene Fraktur"
         url: /sammelsurium/offene-fraktur/
+      - title: "Knochenläsionen"
+        url: /sammelsurium/knochenlaesionen/
