@@ -23,3 +23,8 @@ footer,
 .page__footer-copyright {
   display: none !important;
 }
+
+body {
+  font-size: 15px; // default is around 16px
+  line-height: 1.5; // adjust if needed
+}
