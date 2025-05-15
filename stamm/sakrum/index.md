@@ -17,7 +17,7 @@ toc_sticky: true
 
 Fragility fractures of the pelvis (FFP) 
 
---> siehe [Becken](..\becken\index.md) 
+--> siehe [Becken](..\becken\) 
 
 
 
