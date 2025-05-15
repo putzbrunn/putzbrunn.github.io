@@ -1,14 +1,6 @@
 main:
-  - title: "Home"
+  - title: "🏡 Home"
     url: /
-  - title: "🌳 Wirbelsäule & 🏊 Becken"
-    url: /stamm/
-  - title: "💪 Obere Extremitäten"
-    url: /upper-extremity/
-  - title: "🍗 Untere Extremität"
-    url: /lower-extremity/
-  - title: "🚸 Kinder"
-    url: /kinder/
 
 volles_menu:
   - title: "🏠 Home"
