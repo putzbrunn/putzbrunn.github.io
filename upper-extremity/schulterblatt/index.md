@@ -13,7 +13,8 @@ toc: true
 toc_sticky: true
 ---
 
-## Euler & Rüedi - Blattfraktur
+# Skapulablatt
+## Euler & Rüedi-Klassifikation
 
 ![euler-ruedi_uebersicht](assets/euler-ruedi_uebersicht.png)
 
@@ -21,7 +22,8 @@ toc_sticky: true
 
 ![euler-ruedi_tabelle](assets/euler-ruedi_tabelle.jpg)
 
-# Ideberg - Glenoidfrakturen
+# Glenoid
+## Ideberg Klassifikation
 
 ![scapulafraktur-glenoid_ideberg](assets/scapulafraktur-glenoid_ideberg.png)
 
