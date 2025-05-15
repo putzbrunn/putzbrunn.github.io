@@ -3,7 +3,7 @@ main:
     url: /
 
 volles_menu:
-  - title: "🏠 Home"
+  - title: "🏡 Home"
     url: /
   - title: "🌳 Wirbelsäule"
     children:
@@ -57,3 +57,7 @@ volles_menu:
         url: /kinder/kindlicher-radius/
       - title: "Ruhigstellungszeiten"
         url: /kinder/ruhigstellungszeiten-kinder/
+  - title: "🍺 Sammelsurium"
+    children:
+      - title: "Offene Fraktur"
+        url: /sammelsurium/offene-fraktur/
