@@ -64,12 +64,15 @@ Beste Darstellung auf [radiologyassistant.nl](https://radiologyassistant.nl/musc
 
 
 
-# Bartonicek-Klassifikation
+# Posteriorer Malleolus
 
-- **Typ 1:** fractures with a small extra-incisural fragment
-- **Typ 2:** fractures  with a posterolateral intra-incisural fragment
-- **Typ 3:** fractures with  an intra-incisural fragment with medial malleolar involvement
-- **Typ 4:**  fractures with large intra-incisural triangular fragments
+## Bartonicek & Rammelt Klassifikation
+
+- **Typ 1:** Fraktur außerhalb der (intakten) Inzisur (Fibula-Notch)
+- **Typ 2:** Posterolaterales Fragment mit Beteiligung der Inzisur (Fibula-Notch)
+- **Typ 3:** Zweiteiliges, posteromediales Fragment mit Beteiligung des Innenknöchels
+- **Typ 4:**  Großes posterolaterales dreieckförmiges Fragment (Beteiligung >⅓ der Inzisur)
+- **Typ 5:** Irregulär, osteoporotisch, keinem der anderen 4 Subtypen zuzuordnen
 
 ![tibia-bartonicek-1](assets/tibia-bartonicek-1.png)
 
