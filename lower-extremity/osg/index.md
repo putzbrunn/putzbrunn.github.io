@@ -61,3 +61,16 @@ Beste Darstellung auf [radiologyassistant.nl](https://radiologyassistant.nl/musc
 - **Weber C:** oberhalb der rupturierten Syndesmose (grün)
 
 ![weber-klassifikation](assets/weber-klassifikation.jpg)
+
+
+
+# Bartonicek-Klassifikation
+
+- **Typ 1:** fractures with a small extra-incisural fragment
+- **Typ 2:** fractures  with a posterolateral intra-incisural fragment
+- **Typ 3:** fractures with  an intra-incisural fragment with medial malleolar involvement
+- **Typ 4:**  fractures with large intra-incisural triangular fragments
+
+![tibia-bartonicek-1](assets/tibia-bartonicek-1.png)
+
+![tibia-bartonicek-2](assets/tibia-bartonicek-2.jpg)
