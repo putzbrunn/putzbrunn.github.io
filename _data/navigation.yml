@@ -57,6 +57,8 @@ volles_menu:
         url: /kinder/kindlicher-radius/
       - title: "Ruhigstellungszeiten"
         url: /kinder/ruhigstellungszeiten-kinder/
+      - title: "Hilfslinien & Besonderheiten Röntgen"
+        url: /kinder/hilfslinien-besonderheiten/
   - title: "🍺 Sammelsurium"
     children:
       - title: "Offene Fraktur"
